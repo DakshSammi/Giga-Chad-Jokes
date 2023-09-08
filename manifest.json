@@ -1,0 +1,15 @@
+{
+    "name": "Giga Chad Jokes",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "icons":{
+        "240": "icon.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
